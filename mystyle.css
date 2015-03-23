@@ -1,0 +1,47 @@
+P { text-align: center }
+.revision {
+    background-color: #66FF00;
+}
+
+.author {
+    background-color: #66FF33;
+}
+
+.info {
+    background-color: #66FF66;
+}
+
+.date {
+    background-color: #66FF99;
+}
+
+.file-affected {
+    background-color: #66FFCC;
+}
+
+.action {
+    background-color: #66FFFF;
+}
+
+.list-group-item {
+    font-family: 'Lato', serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+#top {
+    text-align: center;
+}
+
+.project {
+    margin-bottom: 15px;
+}
+
+#versions {
+    text-align: left;
+}
+
+.list-group {
+    margin-left: 20px;
+    margin-right: 20px;
+}
